@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sufiyan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" scr="![image](https://github.com/Mohammed-Sufiyan/Mohammed-Sufiyan/assets/113841439/2df729df-ed86-4ffd-bc47-87f27102e5e5)">
+
 
 - 💬 Ask me about **HTML, CSS, Python**
 
