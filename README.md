@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 Currently diving deep into **Flutter, Dart, Python, and AI/ML**  
+- 🌱 Currently diving deep into **Flutter, Dart, Python, and AI**  
 - 💡 Interested in **Frontend development, App development, and AI-powered solutions**  
 - 🚀 Always exploring new tools and frameworks to level up my skills
 - 📫 How to reach me **007sufiyanmd@gmail.com**  
