@@ -6,7 +6,7 @@
 - 🌱 Currently diving deep into **Flutter, Dart, Python and AI**  
 - 💡 Interested in **Frontend development, App development, and AI-powered solutions**  
 - 🚀 Always exploring new tools and frameworks to level up my skills
-- - 📫 How to reach me **007sufiyanmd@gmail.com**  
+- 📫 How to reach me **007sufiyanmd@gmail.com**  
 - ⚡ Fun fact: I enjoy **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
