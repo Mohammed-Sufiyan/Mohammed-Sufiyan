@@ -92,41 +92,6 @@
 | 🛡️ **Defence** · apps & UI | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,js,figma" height="44" alt="Flutter, Dart, Kotlin, React, JavaScript, Figma"> |
 | 🧤 **Keeper** · shipping it | <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,vercel" height="44" alt="Git, GitHub, Linux, Cloudflare, Vercel"> |
 
-## 🔮 This week's predictions
-
-<!-- MATCHDAY:START -->
-**Gameweek 11.** The Dixon-Coles model's call for every match, refreshed every morning.
-
-> 🔒 **Banker:** Man City (60%) &nbsp;·&nbsp; 🪙 **Coin flip:** Coventry City vs Crystal Palace &nbsp;·&nbsp; 🤝 **Draw magnet:** Brentford vs Everton (27%)
-
-| Kick-off (UTC) | Match | Home | Draw | Away | Expected goals |
-|:--|:--|:-:|:-:|:-:|:-:|
-| Sat 21 Nov · 12:30 | Man City vs Fulham | **60%** | 23% | 17% | 1.9 – 0.9 |
-| Sat 21 Nov · 15:00 | Aston Villa vs Sunderland | **49%** | 26% | 25% | 1.6 – 1.1 |
-| Sat 21 Nov · 15:00 | Bournemouth vs Nott'm Forest | **47%** | 27% | 26% | 1.6 – 1.1 |
-| Sat 21 Nov · 15:00 | Chelsea vs Leeds | **47%** | 26% | 27% | 1.6 – 1.2 |
-| Sat 21 Nov · 15:00 | Coventry City vs Crystal Palace | **38%** | 27% | 36% | 1.4 – 1.4 |
-| Sat 21 Nov · 15:00 | Spurs vs Ipswich Town | **56%** | 23% | 21% | 1.9 – 1.1 |
-| Sat 21 Nov · 17:30 | Newcastle vs Arsenal | 20% | 26% | **54%** | 0.9 – 1.6 |
-| Sun 22 Nov · 14:00 | Hull City vs Brighton | 21% | 26% | **52%** | 0.9 – 1.6 |
-| Sun 22 Nov · 16:30 | Liverpool vs Man Utd | **49%** | 23% | 27% | 1.9 – 1.4 |
-| Mon 23 Nov · 20:00 | Brentford vs Everton | **43%** | 27% | 30% | 1.4 – 1.2 |
-
-<details>
-<summary><b>👑 Who should you captain?</b> &nbsp;(top 3 by expected FPL points)</summary>
-<br>
-
-| | Player | Club | Fixture | xPts |
-|:-:|:--|:--|:--|:-:|
-| 🥇 | **Haaland** | Man City | FUL (H) | 6.5 |
-| 🥈 | **Van Hecke** | Spurs | IPS (H) | 5.5 |
-| 🥉 | **Gabriel** | Arsenal | NEW (A) | 5.4 |
-
-</details>
-
-<sub>Updated 12 Nov 2026, 07:01 UTC by a GitHub Action calling the [Injury Time](https://injury-time-frontend.vercel.app) API · probabilities are the model's, not betting advice.</sub>
-<!-- MATCHDAY:END -->
-
 ## 🐍 On the pitch
 
 <picture>
