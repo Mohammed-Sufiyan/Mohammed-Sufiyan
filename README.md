@@ -6,13 +6,6 @@
 </a>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
-    <img src="assets/typing-light.svg" width="760" alt="Building football prediction models. Turning messy data into good decisions. Shipping FastAPI backends and Flutter apps. Making people laugh while coding.">
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://mdsufiyan.pages.dev"><img src="https://img.shields.io/badge/Portfolio-mdsufiyan.pages.dev-C6FF3D?style=for-the-badge&labelColor=0D0E1A&logo=cloudflarepages&logoColor=C6FF3D" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mohammedsufiyan-s"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C8CFF?style=for-the-badge&labelColor=0D0E1A&logo=linkedin&logoColor=7C8CFF" alt="LinkedIn"></a>
   <a href="mailto:007sufiyanmd@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-FF6B35?style=for-the-badge&labelColor=0D0E1A&logo=gmail&logoColor=FF6B35" alt="Email"></a>
@@ -27,12 +20,10 @@
 
 **I build AI that does something useful, then the product around it.** Models first, then the FastAPI backend, then the app people actually tap on.
 
-- 🧠 **Day job:** LLM chatbots, RAG pipelines and computer vision systems, shipped as full-stack products
-- ⚽ **Side project I won't shut up about:** [Injury Time](https://github.com/Mohammed-Sufiyan/injury-time), a Premier League predictor that finishes within **0.007 log loss of the bookmakers**
-- 📱 **Also on the bench:** Flutter apps for NFC wallets, fleet tracking and real estate
-- 🌱 **Always** trying a new tool, framework or tactic to level up
-- ⚡ **Fun fact:** I enjoy making people laugh while coding
-- 📍 Vaniyambadi, India &nbsp;·&nbsp; 📫 [007sufiyanmd@gmail.com](mailto:007sufiyanmd@gmail.com)
+- 🧠 **Day job:** LLM chatbots, RAG pipelines and computer vision, shipped as full-stack products
+- ⚽ **Side project:** [Injury Time](https://github.com/Mohammed-Sufiyan/injury-time), a Premier League predictor within **0.007 log loss of the bookmakers**
+- 📱 **Also:** Flutter apps for NFC wallets, fleet tracking and real estate
+- 📣 **Open to offers:** roles, projects, or a good argument about who wins the league
 
 </td>
 <td width="280" align="center" valign="top">
@@ -85,26 +76,9 @@
 
 ## 📋 Team sheet
 
-| Position | The squad |
-|:--|:--|
-| 🎯 **Attack** · AI & data | <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,gcp" height="44" alt="Python, scikit-learn, PyTorch, OpenCV, Google Cloud"> |
-| 🧠 **Midfield** · backend | <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase,mysql,docker" height="44" alt="FastAPI, PostgreSQL, Supabase, MySQL, Docker"> |
-| 🛡️ **Defence** · apps & UI | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,js,figma" height="44" alt="Flutter, Dart, Kotlin, React, JavaScript, Figma"> |
-| 🧤 **Keeper** · shipping it | <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,vercel" height="44" alt="Git, GitHub, Linux, Cloudflare, Vercel"> |
+<p><img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,fastapi,postgres,supabase,docker,flutter,dart,kotlin,react,cloudflare,git&perline=14" alt="Python, scikit-learn, PyTorch, OpenCV, FastAPI, PostgreSQL, Supabase, Docker, Flutter, Dart, Kotlin, React, Cloudflare, Git"></p>
 
-## 🐍 On the pitch
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammed-Sufiyan/Mohammed-Sufiyan/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Mohammed-Sufiyan/Mohammed-Sufiyan/output/snake-light.svg" width="100%" alt="A snake eating my GitHub contribution graph">
-</picture>
-
-## 📣 Transfer window
-
-> [!TIP]
-> **Status: open to offers.** Got a role, a project or a strong opinion about who'll win the league? Send it over: [007sufiyanmd@gmail.com](mailto:007sufiyanmd@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohammedsufiyan-s).
-
-## 🎙️ Post-match interview
+---
 
 <!-- JOKE:START -->
 <details>
@@ -117,14 +91,6 @@
 
 </details>
 <!-- JOKE:END -->
-
-<details>
-<summary><b>✍️ A random dev quote</b></summary>
-<br>
-
-![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</details>
 
 <br>
 
