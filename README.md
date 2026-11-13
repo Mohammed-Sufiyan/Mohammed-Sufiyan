@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 I benched Haaland once.</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 Why don't defenders trust floating point?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**git blame still points at me.**
+**0.1 + 0.2 lets in a goal every time.**
 
 <sub>New joke every day.</sub>
 
