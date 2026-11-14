@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 Why don't defenders trust floating point?</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 My code works and I don't know why.</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**0.1 + 0.2 lets in a goal every time.**
+**Same as my FPL captain picks.**
 
 <sub>New joke every day.</sub>
 
