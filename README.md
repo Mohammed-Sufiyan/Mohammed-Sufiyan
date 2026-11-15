@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 My code works and I don't know why.</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 How many ML engineers does it take to take a penalty?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**Same as my FPL captain picks.**
+**One. But first they need 10,000 labelled penalties.**
 
 <sub>New joke every day.</sub>
 
