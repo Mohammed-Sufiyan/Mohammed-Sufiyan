@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 What did the striker say to the merge conflict?</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 Why do ML engineers love penalty shootouts?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**Pass it to me, I'll finish it.**
+**Finally, a binary classification problem.**
 
 <sub>New joke every day.</sub>
 
