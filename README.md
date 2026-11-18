@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 Why do ML engineers love penalty shootouts?</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 How do you calm an anxious backend?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**Finally, a binary classification problem.**
+**Give it a rest. Then a REST API.**
 
 <sub>New joke every day.</sub>
 
