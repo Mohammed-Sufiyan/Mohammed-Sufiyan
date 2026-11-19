@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 How do you calm an anxious backend?</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 Why did the junior dev bring a ball to stand-up?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**Give it a rest. Then a REST API.**
+**He heard the team was doing sprints.**
 
 <sub>New joke every day.</sub>
 
