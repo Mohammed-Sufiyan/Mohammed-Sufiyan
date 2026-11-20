@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 Why did the junior dev bring a ball to stand-up?</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 My xG this season is 14.2.</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**He heard the team was doing sprints.**
+**My actual goals are a 404.**
 
 <sub>New joke every day.</sub>
 
