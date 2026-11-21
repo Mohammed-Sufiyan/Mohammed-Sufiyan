@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 My xG this season is 14.2.</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 Why did the referee use Flutter?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**My actual goals are a 404.**
+**One whistle, every platform.**
 
 <sub>New joke every day.</sub>
 
