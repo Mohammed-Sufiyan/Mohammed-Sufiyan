@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 Why did the referee use Flutter?</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 What's the Dixon-Coles model's favourite chant?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**One whistle, every platform.**
+**"We're attacking, we're defending, we're time-decaying!"**
 
 <sub>New joke every day.</sub>
 
