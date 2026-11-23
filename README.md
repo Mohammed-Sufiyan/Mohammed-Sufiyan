@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 What's the Dixon-Coles model's favourite chant?</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 I asked the model who'll win the league.</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**"We're attacking, we're defending, we're time-decaying!"**
+**It said: 'please define "win" with a loss function'.**
 
 <sub>New joke every day.</sub>
 
