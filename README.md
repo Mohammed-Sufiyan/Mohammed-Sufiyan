@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 I asked the model who'll win the league.</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 Why did the data scientist get a red card?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**It said: 'please define "win" with a loss function'.**
+**Too many unforced errors in the validation set.**
 
 <sub>New joke every day.</sub>
 
