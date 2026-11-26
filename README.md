@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 Why did the data scientist get a red card?</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 Why do Python devs make good goalkeepers?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**Too many unforced errors in the validation set.**
+**They catch every exception.**
 
 <sub>New joke every day.</sub>
 
