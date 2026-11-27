@@ -82,10 +82,10 @@
 
 <!-- JOKE:START -->
 <details>
-<summary><b>🤣 Why do Python devs make good goalkeepers?</b> &nbsp;(click for the punchline)</summary>
+<summary><b>🤣 Why did the FPL manager become a backend dev?</b> &nbsp;(click for the punchline)</summary>
 <br>
 
-**They catch every exception.**
+**Already used to everything breaking right before the deadline.**
 
 <sub>New joke every day.</sub>
 
